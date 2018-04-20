@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.piprastudio.myapp" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>MyApp</name>
+    <description>
+        A blank PhoneGap app.
+    </description>
+    <preference name="android-minSdkVersion" value="16" />
+    <author email="support@phonegap.com" href="http://phonegap.com">
+        PhoneGap Team
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <engine name="android" spec="~7.0.0" />
+    <plugin name="cordova-plugin-local-notification" spec="~0.8.4" />
+    <engine name="browser" spec="~5.0.3" />
+</widget>

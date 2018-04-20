@@ -1,0 +1,78 @@
+        body {
+            background: #F9F7F7;
+            margin: 0;
+            padding: 0;
+        }
+        div {
+            margin: 0%;
+            padding: 0%;
+        }
+        .swiper-container {
+            width: 100%;
+            height: auto;
+        }
+        h1 {
+            text-align: center;
+            font-size: 150%;
+            font-weight: bold;
+            color: #112D4E;
+            padding: 1%;
+            margin: 0;
+        }
+        #deal_image {            
+            border-radius: 10px;
+            width: 100%;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+        #deal_title {
+            margin: 0%;
+            padding: 0%;
+            text-align: left;
+            font-size: 150%;
+            color: #3F72AF;
+        }
+        #deal_description {
+            margin: 0%;
+            padding: 0%;
+            text-align: left;
+            font-size: 100%;
+            color: #112D4E;
+            word-break: break-all;
+        }
+        .deal_container {       
+            margin: 4%;
+            padding: 1%;
+            border-radius: 10px;
+            background-color: #DBE2EF;
+            box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.25);
+        }
+        .bottom_static {
+            width: 98%;
+            margin: 1%;
+            padding: 2%;
+            bottom: 0px;
+            background-color: #3F72AF;
+            color: #F9F7F7;
+            border-radius: 10px;
+            box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.25);
+            font-size: 150%;
+            font-weight: bold;
+        }
+        .bottom_right {
+            font-size: 100%;
+            font-weight: bold;
+            position: absolute;
+            width: auto;
+            right: 5%;
+            bottom: 5%;
+            border-radius: 10px;
+            padding-left: 5px;
+            padding-right: 5px;
+            background-color: #3F72AF;
+            color: #F9F7F7;
+        }
+        div.col-xs-3 {
+            padding: 0 !important;
+        }
